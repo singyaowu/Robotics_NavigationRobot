@@ -1,0 +1,5 @@
+<launch>
+  <!--<arg name="map" default="$(find lzrobot)/map/AI_Center_indoor.yaml"/>-->
+  <arg name="map" default="$(find lzrobot)/map/map250.yaml"/>
+  <node pkg="map_server" type="map_server" name="map_server" args="$(arg map)"/>
+</launch>
