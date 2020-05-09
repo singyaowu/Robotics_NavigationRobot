@@ -6,4 +6,4 @@ This work addresses a method to visit all the doors in the same floor with a mob
 
 See [Report](https://github.com/singyaowu/Robotics_NavigationRobot/blob/master/Robotics_Final_Report.pdf) for detail implementation.
 
-Demo: [Link](https://youtu.be/5CdkwZ7k85g)
+Demo Video: [Link](https://youtu.be/5CdkwZ7k85g)
